@@ -9,6 +9,8 @@ public class Address {
     private Person person;
     public Integer ticket = 0;
 
+
+
     public Address(String state, String street, String city, String country, Integer postalCode) {
         this.state = state;
         this.street = street;
