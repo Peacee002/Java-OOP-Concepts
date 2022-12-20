@@ -24,7 +24,6 @@ public class Main {
         System.out.println(obj2.isEligibleToEnroll("evet"));
         System.out.println("öğrencinin kaç semineri var");
         System.out.println(obj2.getSeminarsTaken()+" semineri vardır");
-
-
+        System.out.println("trying something");
     }
 }
