@@ -1,4 +1,4 @@
-package okul;
+package Okul;
 
 
 import java.util.ArrayList;
@@ -43,7 +43,7 @@ public class Main {
         address.outputAsLabel();
          */
 
-
+        System.out.println("sometin");
         Prof.professor();
         stu2.Student();
         stu3.Student();

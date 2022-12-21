@@ -1,4 +1,4 @@
-package okul;
+package Okul;
 
 public class Address {
     private String street;

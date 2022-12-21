@@ -1,4 +1,4 @@
-package okul;
+package Okul;
 import java.util.ArrayList;
 import java.util.Scanner;
 

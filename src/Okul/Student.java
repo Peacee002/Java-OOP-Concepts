@@ -1,4 +1,4 @@
-package okul;
+package Okul;
 
 public class Student extends Person {
     public Integer studentNumber;
