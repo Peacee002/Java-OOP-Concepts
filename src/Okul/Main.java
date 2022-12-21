@@ -2,13 +2,9 @@ package Okul;
 import java.util.ArrayList;
 
 public class Main {
-    private Professor professor;
-    private Student student;
-    public static void printInfo(Professor professor){
-        professor.printInfo();
-    }
-    public  static void printInfo(Student student){
-        student.printInfo();
+
+    public static void print(print print){
+        print.print();
     }
 
 
@@ -54,14 +50,7 @@ public class Main {
 
          */
 
-        printInfo(stu2);
-        printInfo(Prof);
-        printInfo(stu3);
-        pri
+        print(Prof);
 
     }
-
-
-
-
 }

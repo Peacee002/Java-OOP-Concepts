@@ -1,6 +1,6 @@
 package Okul;
 
-public class Student extends Person {
+public class Student extends Person implements print {
     public Integer studentNumber;
     private Integer averageMark;
     public Professor professor;
@@ -40,7 +40,8 @@ public class Student extends Person {
     public void Student(){
         System.out.println(getName()+" öğrencisinin "+getSeminarsTaken() + " seminer hakkı vardır");
     }
-    public void printInfo(){
+    @Override
+    public void print() {
         System.out.println(getName());
         System.out.println(getEmailAddress());
         System.out.println(getPhoneNumber());

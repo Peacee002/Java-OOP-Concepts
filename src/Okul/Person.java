@@ -52,3 +52,6 @@ class Person {
         this.money = this.money - 50;
     }
 }
+interface print{
+    public void print();
+}

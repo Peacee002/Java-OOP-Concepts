@@ -2,7 +2,7 @@ package Okul;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Professor extends Person {
+public class Professor extends Person implements print {
     private Integer salary;
     protected Integer staffNumber;
     private Integer yearsOfService;
@@ -57,7 +57,9 @@ public class Professor extends Person {
             System.out.println(s.isEligibleToEnroll(UserInput2));
         }
     }
-    public void printInfo(){
+
+    @Override
+    public void print() {
         System.out.println(getName());
         System.out.println(getEmailAddress());
         System.out.println(getPhoneNumber());
