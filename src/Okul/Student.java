@@ -1,6 +1,6 @@
 package Okul;
 
-public class Student extends Person implements print {
+public class Student extends Person {
     public Integer studentNumber;
     private Integer averageMark;
     public Professor professor;

@@ -10,8 +10,6 @@
       <change beforePath="$PROJECT_DIR$/src/Okul/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Okul/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Okul/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Okul/Professor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Okul/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Okul/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task11/NotValidException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task11/NotValidException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task11/Task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task11/Task11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +157,7 @@
       <workItem from="1671429520278" duration="3609000" />
       <workItem from="1671435176700" duration="13433000" />
       <workItem from="1671605768755" duration="9648000" />
-      <workItem from="1671616775920" duration="9555000" />
+      <workItem from="1671616775920" duration="11439000" />
     </task>
     <servers />
   </component>

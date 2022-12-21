@@ -3,8 +3,18 @@ import java.util.ArrayList;
 
 public class Main {
 
-    public static void print(print print){
-        print.print();
+    static public void printof(Person person){
+        if(person instanceof Professor){
+            System.out.println(person.getName());
+            System.out.println(person.getEmailAddress());
+            System.out.println(person.getPhoneNumber());
+        }
+        else if(person instanceof Student){
+            System.out.println(person.getName());
+            System.out.println(person.getEmailAddress());
+            System.out.println(person.getPhoneNumber());
+        }
+
     }
 
 
@@ -50,7 +60,9 @@ public class Main {
 
          */
 
-        print(Prof);
+        stu3.print();
+
+        printof(Prof);
 
     }
 }

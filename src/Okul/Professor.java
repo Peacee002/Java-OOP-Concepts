@@ -2,7 +2,7 @@ package Okul;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Professor extends Person implements print {
+public class Professor extends Person {
     private Integer salary;
     protected Integer staffNumber;
     private Integer yearsOfService;

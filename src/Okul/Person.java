@@ -2,7 +2,7 @@ package Okul;
 
 import java.util.Scanner;
 
-class Person {
+abstract class Person {
     private String name;
     private String phoneNumber;
     private String emailAddress;
@@ -51,7 +51,5 @@ class Person {
 
         this.money = this.money - 50;
     }
-}
-interface print{
-    public void print();
+    abstract public void print();
 }
