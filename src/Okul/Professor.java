@@ -57,5 +57,9 @@ public class Professor extends Person {
             System.out.println(s.isEligibleToEnroll(UserInput2));
         }
     }
-
+    public void printInfo(){
+        System.out.println(getName());
+        System.out.println(getEmailAddress());
+        System.out.println(getPhoneNumber());
+    }
 }

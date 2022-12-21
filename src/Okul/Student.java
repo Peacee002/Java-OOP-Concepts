@@ -40,4 +40,9 @@ public class Student extends Person {
     public void Student(){
         System.out.println(getName()+" öğrencisinin "+getSeminarsTaken() + " seminer hakkı vardır");
     }
+    public void printInfo(){
+        System.out.println(getName());
+        System.out.println(getEmailAddress());
+        System.out.println(getPhoneNumber());
+    }
 }

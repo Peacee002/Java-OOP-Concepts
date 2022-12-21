@@ -1,11 +1,16 @@
 package Okul;
-
-
 import java.util.ArrayList;
 
 public class Main {
-    public Main() {
+    private Professor professor;
+    private Student student;
+    public static void printInfo(Professor professor){
+        professor.printInfo();
     }
+    public  static void printInfo(Student student){
+        student.printInfo();
+    }
+
 
     public static void main(String[] args) {
 
@@ -18,7 +23,7 @@ public class Main {
                 new Address("sometin2", "özder", "rize", "türkiye", 34543));
 
 
-        Student stu3 = new Student("Adem", "3245346", "ahmet@gmail", 200, 23242,
+        Student stu3 = new Student("Adem", "45623452", "adem@gmail", 200, 23242,
                 new Address("sometin2", "özder", "rize", "türkiye", 34543));
 
         //Öğrenci ekleme
@@ -41,13 +46,22 @@ public class Main {
         address.validate();
         System.out.println(Prof.getMoney() + " tl niz vardır");
         address.outputAsLabel();
-         */
 
-        System.out.println("sometin");
+
         Prof.professor();
         stu2.Student();
         stu3.Student();
 
+         */
+
+        printInfo(stu2);
+        printInfo(Prof);
+        printInfo(stu3);
+        pri
 
     }
+
+
+
+
 }
