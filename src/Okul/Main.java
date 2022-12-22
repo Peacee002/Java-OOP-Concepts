@@ -9,11 +9,13 @@ public class Main {
             System.out.println(person.getEmailAddress());
             System.out.println(person.getPhoneNumber());
         }
-        else if(person instanceof Student){
+        /*else if(person instanceof Student){
             System.out.println(person.getName());
             System.out.println(person.getEmailAddress());
             System.out.println(person.getPhoneNumber());
         }
+
+         */
 
     }
 
@@ -62,7 +64,7 @@ public class Main {
 
         stu3.print();
 
-        printof(Prof);
+        printof(stu2);
 
     }
 }

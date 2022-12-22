@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55a769d4-c549-4424-a920-832550c29f4c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Okul/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Okul/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Okul/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Okul/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Okul/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Okul/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Okul/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Okul/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Workspace For Java/Level 1/Hello&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -55,7 +54,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Task10">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Okul.Main" />
       <module name="Hello" />
@@ -82,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.Question9" />
+    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Task10" />
       <module name="Hello" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task10" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task11" />
         <item itemvalue="Application.Print" />
         <item itemvalue="Application.main" />
-        <item itemvalue="Application.Question9" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +156,10 @@
       <workItem from="1671429520278" duration="3609000" />
       <workItem from="1671435176700" duration="13433000" />
       <workItem from="1671605768755" duration="9648000" />
-      <workItem from="1671616775920" duration="11439000" />
+      <workItem from="1671616775920" duration="11988000" />
+      <workItem from="1671631094019" duration="874000" />
+      <workItem from="1671696886267" duration="92000" />
+      <workItem from="1671697760862" duration="705000" />
     </task>
     <servers />
   </component>
