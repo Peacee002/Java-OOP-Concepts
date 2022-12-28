@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55a769d4-c549-4424-a920-832550c29f4c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueWStack/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueWStack/Soultion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadTask/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadTask/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Okul/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Okul/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task10">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workspace For Java\Level 1\Hello\src\Tasks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Okul.Main" />
       <module name="Hello" />
@@ -68,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TasksCon.Print" />
+    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueWStack.Queue" />
       <module name="Hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TasksCon.*" />
+          <option name="PATTERN" value="QueWStack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task11.Task11" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadTask.Test" />
       <module name="Hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task11.*" />
+          <option name="PATTERN" value="ThreadTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TasksCon.main" />
+    <configuration name="alo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadTask.alo" />
       <module name="Hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TasksCon.*" />
+          <option name="PATTERN" value="ThreadTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.alo" />
+        <item itemvalue="Application.Queue" />
         <item itemvalue="Application.Task10" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Task11" />
-        <item itemvalue="Application.Print" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +167,8 @@
       <workItem from="1671631094019" duration="874000" />
       <workItem from="1671696886267" duration="92000" />
       <workItem from="1671697760862" duration="705000" />
+      <workItem from="1671699423443" duration="3384000" />
+      <workItem from="1672207440317" duration="18518000" />
     </task>
     <servers />
   </component>
